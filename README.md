@@ -6,7 +6,16 @@ Pearl-turning game
 
 <i>This is a game that I designed for my cousin XD</i>
 
-![Alt text](http://i.imgur.com/p8JImNW.jpg?2)
+<b>Choose character and arena</b><br>
+![Alt text](http://i.imgur.com/5lhG8iR.png?1)
+
+<b>2P Battle!!</b><br>
+![Alt text](http://i.imgur.com/4V5W5LI.jpg?1)
+
+
+<b>Rank</b><br>
+![Alt text](http://i.imgur.com/9k614vP.png?1)
+
 
 
 
